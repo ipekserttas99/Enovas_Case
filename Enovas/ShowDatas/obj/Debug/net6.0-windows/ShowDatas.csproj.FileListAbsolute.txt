@@ -1,0 +1,17 @@
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\bin\Debug\net6.0-windows\ShowDatas.exe
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\bin\Debug\net6.0-windows\ShowDatas.deps.json
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\bin\Debug\net6.0-windows\ShowDatas.runtimeconfig.json
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\bin\Debug\net6.0-windows\ShowDatas.dll
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\bin\Debug\net6.0-windows\ShowDatas.pdb
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.csproj.AssemblyReference.cache
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.Form1.resources
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.csproj.GenerateResource.cache
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.AssemblyInfoInputs.cache
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.AssemblyInfo.cs
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.csproj.CoreCompileInputs.cache
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.dll
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\refint\ShowDatas.dll
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.pdb
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ShowDatas.genruntimeconfig.cache
+C:\Users\ipek_\source\repos\Enovas\ShowDatas\obj\Debug\net6.0-windows\ref\ShowDatas.dll
